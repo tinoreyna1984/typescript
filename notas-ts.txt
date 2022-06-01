@@ -1,0 +1,32 @@
+Curso de TypeScript
+*******************
+
+Instalación
+===========
+
+Necesario
+---------
+Node JS
+
+Instalaciones recomendadas
+--------------------------
+VSCode - Visual Studio Code
+Google Chrome
+
+Extensiones de VSCode
+---------------------
+Activitus Bar
+TypeScript importer
+
+Extensiones de Chrome
+---------------------
+Json Viewer Awesome
+Bracket Pair Colorizer 2
+
+Instalación global del entorno
+------------------------------
+npm install -g typescript
+
+
+
+
