@@ -27,6 +27,21 @@ Instalación global del entorno
 ------------------------------
 npm install -g typescript
 
+Transpilación (generación del archivo JavaScript para el navegador)
+===================================================================
 
+tsc <archivo>
 
+El resultado es un archivo JavaScript.
+
+Configurar TSConfig.json
+========================
+
+tsc --init
+
+Modo observador en TypeScript
+=============================
+ tsc -w
+
+ Significa que se pueda verificar los cambios de forma simultánea en el archivo ts y el js sin necesidad de transpilar el código.
 
