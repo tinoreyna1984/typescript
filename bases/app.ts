@@ -4,7 +4,10 @@
  * también es una buena práctica para evitar errores de tipado.
  */
 
-const msg: string = 'Hola mundo';
+const a: number = 10;
+let b: string;
 
-console.log(msg);
+function sayHello(msg: string){
+    console.log(msg);
+}
 

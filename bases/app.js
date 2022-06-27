@@ -4,5 +4,8 @@
  * Es una herramienta que nos permite definir tipos de datos, así como
  * también es una buena práctica para evitar errores de tipado.
  */
-const msg = 'Hola mundo';
-console.log(msg);
+const a = 10;
+let b;
+function sayHello(msg) {
+    console.log(msg);
+}
